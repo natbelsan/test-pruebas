@@ -1,2 +1,2 @@
 # test-prueba
-Esta descripcion es opcional
+Autor/a: Natalia Belenguer
